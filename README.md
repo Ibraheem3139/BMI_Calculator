@@ -13,3 +13,8 @@ It displays the calculated BMI on the GUI.
 It maintains a history of BMI records in a treeview widget, showing the name, BMI, and date for each record.
 
 It provides a "Show Trend" button that, when pressed, displays a plot showing the BMI trend over time for the stored records.
+
+# Libraries
+
+In this i have used;
+tkinter, sqlite3, matplotlib.pyplot
